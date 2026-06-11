@@ -1,6 +1,9 @@
 [package]
 name = "fiber_bundle"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Fiber_bundle"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/fiber_bundle"
+edition = "2021"
 
 [dependencies]
